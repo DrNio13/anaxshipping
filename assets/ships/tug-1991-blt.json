@@ -1,0 +1,63 @@
+[
+  {
+    "id": "tug-1991-blt",
+    "alias": "BLT",
+    "Type": "Tug",
+    "Built": 1991,
+    "Dimensions": "25,15 x 6,80 x 3,42 mtrs",
+    "Displacement": "145 tons Draft 3,00 mtrs aft Propulsion twin screw in nozzles Propeller diameter 1700 mm",
+    "Main engines": "2x Deutz, type 12M816 U (12M148164)",
+    "Output": "1464 total hp at 1800 rpm",
+    "Gearboxes": "2x Reintjes, type WAF 560, ratio 1:5,421",
+    "Speed": "11,3 knots",
+    "Bollard pull": "22,5 tons",
+    "Deck equipment": [
+      "towing bitt",
+      "towing hook 50 tons (testload)",
+      "capstan bow",
+      "fender anchor",
+      "winch",
+      "fifi monitor on monkey island"
+    ],
+    "Aux. engines": [
+      "1x Deutz/MWM, type TD 226-6",
+      "driving 60 kVA, 220/380, 50 Hz Stamford alternator and fifi pump",
+      "Sihi, 200 cubm/hr",
+      "1x Deutz/MWM, type D-226-6",
+      "driving 40 kVA, 220/380 V, 50 Hz stamford alternator"
+    ],
+    "Bow thruster": "not fitted",
+    "Tank capacities": {
+      "metric-system": "m3",
+      "fuel": "32,8",
+      "water": "6,45",
+      "sewage": "1,32",
+      "lub oil": "0,29"
+    },
+    "Deck equipment": "horizontal bow fender, capstan",
+    "Deck strength": "3-4 tons/m2",
+    "Accommodation": "1x single berth cabin, 2x double berth cabin, 1x 4 berth cabin, galley mess room, 2x toilet, 2x shower",
+    "Nav./comm. equipment": "VHF, radar, loudhailer, compass, GPS, SSB echo sounder",
+    "Class": "Bureau Veritas I ? Hull ? Mach Tug Coastal Area",
+    "Class status": "Class status",
+    "Delivery": " 'as is, where is' ",
+    "Remark": "Galley and sanitary facilities need upgrading.",
+    "Position": "North Africa",
+    "images": [
+      "tug-1991-blt-00.png",
+      "tug-1991-blt-01.png",
+      "tug-1991-blt-02.png",
+      "tug-1991-blt-03.png",
+      "tug-1991-blt-04.png",
+      "tug-1991-blt-05.png",
+      "tug-1991-blt-06.png",
+      "tug-1991-blt-07.png",
+      "tug-1991-blt-08.png",
+      "tug-1991-blt-09.png",
+      "tug-1991-blt-10.png",
+      "tug-1991-blt-11.png",
+      "tug-1991-blt-12.png",
+      "tug-1991-blt-13.png"
+    ]
+  }
+]

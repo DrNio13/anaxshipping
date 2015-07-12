@@ -1,0 +1,26 @@
+[
+  {
+    "id":"daily-cruise-vessel",
+    "Type": "Yacht",
+    "price": "600.000€",
+    "Flag": "TÜRK",
+    "Port": "REGISTRATION NO: 59",
+    "Description": "Yolcu Gemisi (Çelik) / Pleasure Vessel ",
+    "Capacity": "Yaz / Summer :800 ki?i/person, K?? / Winter : 500 ki?i/person",
+    "Length (OVERALL)": "35.00 m.   (Eski : 25 m.)",
+    "Length (HULL)": "35.60 m.",
+    "Breadth": "7.85 m.",
+    "Draught": "1.15 m.",
+    "Freeboard": "Yaz / Summer :  1377 mm., K?? / Winter :  1367 mm.",
+    "Height": "2.73 m.",
+    "Grosston": "153.79 (Eski : 88.16) NETTON: 67.54 (Eski : 49.93)",
+    "Displacement": "90 Tons",
+    "Motor": "2 x Volvo TD 122 470 BHP 1200 RPM",
+    "Transmission": "UYGAR U-90 3.50 : 1",
+    "Generators": [
+      "(1) FORD BETA MARINE BD4 - Diesel Marine 44 Kwa - 4500 Rpm / 50 Hz / 3 phase, 230/450 V",
+      "(2) PERKINS – Diesel Marine 45 Kwa – 1500 Rpm / 50 Hz / 3 phase, 380 V"
+    ],
+    "Wireless Call Back": ""
+  }
+]
